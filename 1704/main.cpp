@@ -4,8 +4,8 @@ using namespace std;
 
 typedef long long ll;
 typedef unsigned long long ull;
-typedef pair<int,int> pii;
-typedef vector<int> vi;
+typedef pair< int,int > pii;
+typedef vector< int > vi;
 typedef vector< pii > vii;
 
 const int MAX = 100;
